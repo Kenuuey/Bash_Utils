@@ -2,6 +2,7 @@
 
 This project implements simplified versions of the classic Unix utilities **cat** and **grep** in C (C11 standard).
 
+
 ## Features
 
 - **s21_cat**  
@@ -14,6 +15,7 @@ This project implements simplified versions of the classic Unix utilities **cat*
 - Uses PCRE or POSIX regex libraries for pattern matching  
 - Follows Google C Style Guide and POSIX.1-2017 standards  
 - Built with Makefiles; executables are located in `src/cat/` and `src/grep/`
+
 
 ## Project Structure
 
