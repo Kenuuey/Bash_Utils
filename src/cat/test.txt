@@ -1,0 +1,21 @@
+This is a test file.
+
+	Tab		Character
+Anothe  r li	ne of text    .
+Line     1
+                        H
+        Li      n	e 2
+
+
+        Lin     e 	3
+
+    h    fef
+
+
+    he  llo   worl		d
+
+123		567		9999
+
+    test .. ..
+
+\\\\\\	\\\\\\
